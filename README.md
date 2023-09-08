@@ -29,9 +29,11 @@ namespace Assignment1
     }
     increment++;
     Console.WriteLine();
-   }
+ }
   }
  }
 }
-
 ```
+![output1screenshot](https://github.com/lavanya032/DotNetAssignment1/assets/144023989/8d370e81-a283-49e5-a27e-f42aa33df0d3)
+
+
